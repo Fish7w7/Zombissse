@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Zumbi01",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_zombie",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Zumbi01",
+  "name":"obj_zombie",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_Zumbi",
-    "path":"sprites/spr_Zumbi/spr_Zumbi.yy",
+    "name":"spr_zombie",
+    "path":"sprites/spr_zombie/spr_zombie.yy",
   },
   "spriteMaskId":null,
   "visible":true,

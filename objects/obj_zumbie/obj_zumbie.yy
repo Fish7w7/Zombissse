@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"spr_ZumbiCorpo",
+  "%Name":"obj_zumbie",
   "eventList":[],
   "managed":true,
-  "name":"spr_ZumbiCorpo",
+  "name":"obj_zumbie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"spr_zumbie",
+    "path":"sprites/spr_zumbie/spr_zumbie.yy",
   },
   "spriteMaskId":null,
   "visible":true,
