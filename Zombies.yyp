@@ -35,9 +35,13 @@
   },
   "name":"Zombies",
   "resources":[
+    {"id":{"name":"obj_municao","path":"objects/obj_municao/obj_municao.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_municao","path":"sprites/spr_municao/spr_municao.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
