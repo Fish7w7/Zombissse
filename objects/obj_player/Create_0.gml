@@ -1,10 +1,12 @@
-// Variáveis de Movimento
-velocidade = 5 //A velocidade com que o jogador se move
+// Evento: Create do obj_player
 
-// Variáveis de Combate
-vida = 100; // Pontos de vida do jogador
-municao_atual = 30; // Munição inicial do jogador
-taxa_tiro = 15; // Quantos frames devem passar entre um tiro e outro 
-timer_tiro = 0; // Um contador para controlar a taxa de tiro
+// Variáveis de Multiplayer (Adicionar estas!)
+is_local_player = false; // Será 'true' apenas para a instância controlada por este jogador
+network_id = -1; // ID único de rede para este jogador, atribuído pelo host
 
-	
+// ... (Seu código existente de velocidade, vida, municao, taxa_tiro, timer_tiro) ...
+velocidade = 4;
+vida = 100;
+municao_atual = 30;
+taxa_tiro = 15;
+timer_tiro = 0;

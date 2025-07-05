@@ -1,0 +1,1 @@
+image_alpha = 1; // Volta o sprite do jogador para totalmente opaco
